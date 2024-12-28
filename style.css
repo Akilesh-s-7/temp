@@ -1,0 +1,130 @@
+/* General Body Styling */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f9;
+    color: #333;
+}
+
+/* Top Navigation Styling */
+.topnav {
+    background-color: #4CAF50;
+    padding: 20px 0;
+}
+
+.topnav h1 {
+    font-size: 3em;
+    color: white;
+    margin: 0;
+}
+
+/* Subheader Styling */
+.subtop {
+    background-color: #fff;
+    padding: 20px 0;
+}
+
+.subtop h1 {
+    font-size: 2em;
+    color: #4CAF50;
+    margin: 0;
+}
+
+/* Course Section Styling */
+.img1 {
+    width: 80%;
+    margin-bottom: 30px;
+    background-color: #fff;
+    border-radius: 10px;
+    padding: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    text-align: center;
+}
+
+.img1 img {
+    width: 100%;
+    height: auto;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+
+.img1 h3 {
+    font-size: 1.8em;
+    color: #333;
+    margin-bottom: 10px;
+}
+
+.img1 p {
+    font-size: 1.1em;
+    color: #666;
+    line-height: 1.6;
+}
+
+/* Button Styling */
+.sbutton {
+    background-color: black;
+    color: white;
+    padding: 15px 30px;
+    font-size: 1.2em;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.sbutton:hover {
+    background-color: blue;
+}
+
+/* Second Section - General Body Styling */
+body.second {
+    font-family: Arial, sans-serif;
+    background-color: black;
+    color: white;
+    margin: 0;
+    padding: 0;
+}
+
+/* Top Header Styling */
+.tophead {
+    padding: 20px;
+    background-color: #333;
+}
+
+.tophead h1 {
+    font-size: 3em;
+    color: #ffffff;
+}
+
+/* Navigation Styling */
+.sub {
+    background-color: #444;
+    padding: 10px 0;
+}
+
+.sub h2 {
+    font-size: 2em;
+    color: #ffffff;
+}
+
+/* Form Styling */
+.topna {
+    margin: 20px;
+    padding: 20px;
+    background-color: #222;
+    border-radius: 10px;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.7);
+}
+
+h3 {
+    font-size: 1.2em;
+    color: #ffcc00;
+    margin-bottom: 10px;
+}
+
+
+
+
+
+
